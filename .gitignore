@@ -1,0 +1,16 @@
+# Created by https://www.toptal.com/developers/gitignore/api/netbeans
+# Edit at https://www.toptal.com/developers/gitignore?templates=netbeans
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.toptal.com/developers/gitignore/api/netbeans
+1
+# Được tạo bởi https://www.toptal.com/developers/gitignore/api/netbeans # Chỉnh sửa tại https://www.toptal.com/developers/gitignore?templates=netbeans ### NetBeans ### **/ nbproject/private/ **/nbproject/Makefile-*.mk **/nbproject/Package-*.bash build/ nbbuild/ dist/ nbdist/ .nb-gradle/ # Kết thúc https://www.toptal.com/ nhà phát triển/gitignore/api/netbeans
